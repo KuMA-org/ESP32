@@ -1,3 +1,4 @@
+//processing側のコード
 import processing.serial.*;
 
 Serial serial;
